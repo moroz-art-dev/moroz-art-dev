@@ -81,5 +81,5 @@ Step2Use
 
 - Non-conflict, calm, open to opposing viewpoints, and finding compromises.
 - Decisive and responsible.
-- Eager to learn, improve, and adapt.
 - Sociable, open-minded, with a good sense of humor.
+- Eager to learn, improve, and adapt.
