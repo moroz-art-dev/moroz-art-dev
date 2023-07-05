@@ -5,8 +5,6 @@ LinkedIn: [linkedin.com/in/moroz-art-dev](https://www.linkedin.com/in/moroz-art-
 GitHub: [github.com/moroz-art-dev](https://github.com/moroz-art-dev/)  
 CodeWars: [codewars.com/users/moroz-art-dev](https://www.codewars.com/users/moroz-art-dev/)
 
----
-
 ## Skills
 
 - **HTML** (5+ years)
@@ -16,29 +14,21 @@ CodeWars: [codewars.com/users/moroz-art-dev](https://www.codewars.com/users/moro
 - **React** (2 years)
 - **TypeScript** (0.5 years)
 
-### Additional Libraries/Frameworks:
-
+Additional Libraries/Frameworks:  
 React Hooks, Redux, Redux Toolkit, Axios, Promise, Async/await, WebPack, npm, JSON, ES6+, Jest, Fetch, Formik, Yup, Firebase, MUI, Materializecss, Bootstrap, Foundation, NextJS, React Icons, React Modal, React Scroll, React Select, React Transition Group, Chakra UI.
 
-### Web Technologies:
-
+Web Technologies:  
 XML, HTML5, SASS, SCSS, CamelCase, BEM.
 
-### Content Management Systems (CMS):
-
+Content Management Systems (CMS):  
 Bitrix, API Bitrix, WordPress, OpenCart, Joomla.
 
-### Tools:
-
+Tools:  
 NetBeans, WebStorm, VS Code, Google PageSpeed Tools, Chrome/React/Redux DevTools, Remmina, FileZilla, Bash, Photoshop, Figma, Gimp, GIT, GitHub, ESLint, Stylelint, Prettier.
-
----
 
 ## Certificates
 
 - [Meta Front-End Developer](https://www.coursera.org/account/accomplishments/specialization/certificate/H7PBQH8AWD6W)
-
----
 
 ## Experience
 
@@ -74,8 +64,6 @@ Step2Use
 **Front-End Developer**  
 09/2012 - 05/2013  
 (HTML, CSS, JavaScript, jQuery)
-
----
 
 ## Personal Qualities
 
