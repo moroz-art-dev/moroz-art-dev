@@ -11,8 +11,8 @@ CodeWars: [codewars.com/users/moroz-art-dev](https://www.codewars.com/users/moro
 - **CSS** (5+ years)
 - **JavaScript** (5+ years)
 - **PHP** (5+ years)
-- **React** (2 years)
-- **TypeScript** (0.5 years)
+- **React** (3 years)
+- **TypeScript** (2 years)
 
 Additional Libraries/Frameworks:  
 React Hooks, Redux, Redux Toolkit, Axios, Promise, Async/await, WebPack, npm, JSON, ES6+, Jest, Fetch, Formik, Yup, Firebase, MUI, Materializecss, Bootstrap, Foundation, NextJS, React Icons, React Modal, React Scroll, React Select, React Transition Group, Chakra UI.
@@ -31,6 +31,10 @@ NetBeans, WebStorm, VS Code, Google PageSpeed Tools, Chrome/React/Redux DevTools
 - [Meta Front-End Developer](https://www.coursera.org/account/accomplishments/specialization/certificate/H7PBQH8AWD6W)
 
 ## Experience
+
+**Front-End Developer** 
+GetWin
+06/2022 - 12/2022
 
 **Front-End Developer**  
 Divi Den Ltd  
