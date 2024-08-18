@@ -1,9 +1,16 @@
 # Artem Moroz (14.05.1990)
 
-Email: moroz.art.dev@gmail.com  
-LinkedIn: [linkedin.com/in/moroz-art-dev](https://www.linkedin.com/in/moroz-art-dev/)  
-GitHub: [github.com/moroz-art-dev](https://github.com/moroz-art-dev/)  
-CodeWars: [codewars.com/users/moroz-art-dev](https://www.codewars.com/users/moroz-art-dev/)
+<div align="left">
+  <a href="mailto:moroz.art.dev@gmail.com">
+    <img align="center" alt="Email" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/google/google-original.svg">
+  </a>
+  <a href="https://www.linkedin.com/in/moroz-art-dev/" target="_blank">
+    <img align="center" alt="LinkedIn" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg">
+  </a>
+  <a href="https://github.com/moroz-art-dev" target="_blank">
+    <img align="center" alt="GitHub" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
+  </a>
+</div>
 
 ## Skills
 
