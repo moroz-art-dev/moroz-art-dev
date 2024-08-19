@@ -19,12 +19,9 @@ I am a certified Front-End Developer from Meta.
 </div>
 <br/><br/>
 
-### Skills
+## Skills
 
-<table style="width: 100%; border-collapse: collapse">
-  <tr>
-    <td style="width: 50%; padding: 10px; vertical-align: top; border: none">
-      <div style="display: inline-block">
+<div style="display: inline-block">
         <h4>Core Technologies</h4>
         <img
           align="center"
@@ -60,6 +57,14 @@ I am a certified Front-End Developer from Meta.
         />
         <img
           align="center"
+          alt="XML"
+          title="XML"
+          height="30"
+          width="40"
+          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xml/xml-original.svg"
+        />
+        <img
+          align="center"
           alt="SASS"
           title="SASS"
           height="30"
@@ -90,14 +95,6 @@ I am a certified Front-End Developer from Meta.
           width="40"
           src="https://raw.githubusercontent.com/moroz-art-dev/materials/main/stack/images/bem.svg"
         />
-        <img
-          align="center"
-          alt="XML"
-          title="XML"
-          height="30"
-          width="40"
-          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xml/xml-original.svg"
-        />
       </div>
       <div style="display: inline-block">
         <h4>Frameworks & Libraries</h4>
@@ -117,13 +114,13 @@ I am a certified Front-End Developer from Meta.
           width="40"
           src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg"
         />
-        <img
+         <img
           align="center"
-          alt="Redux Saga"
-          title="Redux Saga"
+          alt="Next.js"
+          title="Next.js"
           height="30"
           width="40"
-          src="https://raw.githubusercontent.com/moroz-art-dev/materials/main/stack/images/redux-saga.svg"
+          src="https://raw.githubusercontent.com/moroz-art-dev/materials/main/stack/images/next.svg"
         />
         <img
           align="center"
@@ -149,13 +146,53 @@ I am a certified Front-End Developer from Meta.
           width="40"
           src="https://raw.githubusercontent.com/moroz-art-dev/materials/main/stack/images/formik.svg"
         />
-        <img
+          <img
           align="center"
-          alt="Next.js"
-          title="Next.js"
+          alt="Ant Design"
+          title="Ant Design"
           height="30"
           width="40"
-          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg"
+          src="https://raw.githubusercontent.com/moroz-art-dev/materials/main/stack/images/antd.svg"
+        />
+        <img
+          align="center"
+          alt="MUI (Material-UI)"
+          title="MUI (Material-UI)"
+          height="30"
+          width="40"
+          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg"
+        />
+        <img
+          align="center"
+          alt="MaterializeCSS"
+          title="MaterializeCSS"
+          height="30"
+          width="40"
+          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materializecss/materializecss-original.svg"
+        />
+        <img
+          align="center"
+          alt="Bootstrap"
+          title="Bootstrap"
+          height="30"
+          width="40"
+          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"
+        />
+        <img
+          align="center"
+          alt="Foundation"
+          title="Foundation"
+          height="30"
+          width="40"
+          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/foundation/foundation-original.svg"
+        />
+        <img
+          align="center"
+          alt="Chakra UI"
+          title="Chakra UI"
+          height="30"
+          width="40"
+          src="https://raw.githubusercontent.com/moroz-art-dev/materials/main/stack/images/chakra.svg"
         />
       </div>
       <div style="display: inline-block">
@@ -226,57 +263,6 @@ I am a certified Front-End Developer from Meta.
         />
       </div>
       <div style="display: inline-block">
-        <h4>UI Libraries</h4>
-        <img
-          align="center"
-          alt="Ant Design"
-          title="Ant Design"
-          height="30"
-          width="40"
-          src="https://raw.githubusercontent.com/moroz-art-dev/materials/main/stack/images/antd.svg"
-        />
-        <img
-          align="center"
-          alt="MUI (Material-UI)"
-          title="MUI (Material-UI)"
-          height="30"
-          width="40"
-          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg"
-        />
-        <img
-          align="center"
-          alt="MaterializeCSS"
-          title="MaterializeCSS"
-          height="30"
-          width="40"
-          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materializecss/materializecss-original.svg"
-        />
-        <img
-          align="center"
-          alt="Bootstrap"
-          title="Bootstrap"
-          height="30"
-          width="40"
-          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"
-        />
-        <img
-          align="center"
-          alt="Foundation"
-          title="Foundation"
-          height="30"
-          width="40"
-          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/foundation/foundation-original.svg"
-        />
-        <img
-          align="center"
-          alt="Chakra UI"
-          title="Chakra UI"
-          height="30"
-          width="40"
-          src="https://raw.githubusercontent.com/moroz-art-dev/materials/main/stack/images/chakra.svg"
-        />
-      </div>
-      <div style="display: inline-block">
         <h4>Backend Development</h4>
         <img
           align="center"
@@ -335,10 +321,8 @@ I am a certified Front-End Developer from Meta.
           src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"
         />
       </div>
-    </td>
-    <td style="width: 50%; padding: 10px; vertical-align: top; border: none">
       <div style="display: inline-block">
-    <h4>Developer Tools</h4>
+    <h4>Developer & Build Tools</h4>
       <img
         align="center"
         alt="Git"
@@ -411,10 +395,7 @@ I am a certified Front-End Developer from Meta.
         width="40"
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg"
       />
-  </div>
-  <div style="display: inline-block">
-    <h4>Build Tools</h4>
-      <img
+        <img
         align="center"
         alt="Webpack"
         title="Webpack"
@@ -448,7 +429,39 @@ I am a certified Front-End Developer from Meta.
       />
   </div>
       <div style="display: inline-block">
-        <h4>Design & Prototyping</h4>
+        <h4>Other Tools & Design</h4>
+        <img
+        align="center"
+        alt="Chrome/React/Redux DevTools"
+        title="Chrome/React/Redux DevTools"
+        height="30"
+        width="40"
+        src="https://raw.githubusercontent.com/moroz-art-dev/materials/main/stack/images/dev.svg"
+      />
+        <img
+          align="center"
+          alt="Bash"
+          title="Bash"
+          height="30"
+          width="40"
+          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg"
+        />
+        <img
+          align="center"
+          alt="GPT-3"
+          title="GPT-3"
+          height="30"
+          width="40"
+          src="https://raw.githubusercontent.com/moroz-art-dev/materials/main/stack/images/gpt.svg"
+        />
+        <img
+          align="center"
+          alt="Claude.ai"
+          title="Claude.ai"
+          height="30"
+          width="40"
+          src="https://raw.githubusercontent.com/moroz-art-dev/materials/main/stack/images/claudeai.svg"
+        />
         <img
           align="center"
           alt="Figma"
@@ -474,7 +487,7 @@ I am a certified Front-End Developer from Meta.
           src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original.svg"
         />
       </div>
-      <div style="display: inline-block">
+            <div style="display: inline-block">
         <h4>CMS & E-commerce</h4>
         <img
           align="center"
@@ -509,68 +522,6 @@ I am a certified Front-End Developer from Meta.
           src="https://raw.githubusercontent.com/moroz-art-dev/materials/main/stack/images/joomla.svg"
         />
       </div>
-      <div style="display: inline-block">
-        <h4>Other Tools</h4>
-        <img
-        align="center"
-        alt="Chrome/React/Redux DevTools"
-        title="Chrome/React/Redux DevTools"
-        height="30"
-        width="40"
-        src="https://raw.githubusercontent.com/moroz-art-dev/materials/main/stack/images/dev.svg"
-      />
-      <img
-        align="center"
-        alt="Google PageSpeed Insights"
-        title="Google PageSpeed Insights"
-        height="30"
-        width="40"
-        src="https://raw.githubusercontent.com/moroz-art-dev/materials/main/stack/images/pagespeed.svg"
-      />
-        <img
-          align="center"
-          alt="Remmina"
-          title="Remmina"
-          height="30"
-          width="40"
-          src="https://raw.githubusercontent.com/moroz-art-dev/materials/main/stack/images/remmina.svg"
-        />
-        <img
-          align="center"
-          alt="FileZilla"
-          title="FileZilla"
-          height="30"
-          width="40"
-          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/filezilla/filezilla-original.svg"
-        />
-        <img
-          align="center"
-          alt="Bash"
-          title="Bash"
-          height="30"
-          width="40"
-          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg"
-        />
-        <img
-          align="center"
-          alt="GPT-3"
-          title="GPT-3"
-          height="30"
-          width="40"
-          src="https://raw.githubusercontent.com/moroz-art-dev/materials/main/stack/images/gpt.svg"
-        />
-        <img
-          align="center"
-          alt="Claude.ai"
-          title="Claude.ai"
-          height="30"
-          width="40"
-          src="https://raw.githubusercontent.com/moroz-art-dev/materials/main/stack/images/claudeai.svg"
-        />
-      </div>
-    </td>
-  </tr>
-</table>
 <br/><br/>
 
 ### Certificates
