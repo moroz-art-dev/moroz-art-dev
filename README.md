@@ -524,7 +524,7 @@ I am a certified Front-End Developer from Meta.
       </div>
 <br/><br/>
 
-### Certificates
+## Certificates
 
 <a href="https://www.coursera.org/account/accomplishments/specialization/certificate/H7PBQH8AWD6W" target="_blank" rel="nofollow">
     <img src="https://img.shields.io/badge/Meta_Front--End_Developer-0074CC?style=for-the-badge&logo=meta&logoColor=white" alt="Meta Front-End Developer Certificate"/>
